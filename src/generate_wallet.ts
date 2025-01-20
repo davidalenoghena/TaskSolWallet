@@ -16,4 +16,6 @@ To save your wallet, copy and paste the following into dev-wallet.json file:
 // > touch dev-wallet.json
 console.log("run > 'touch dev-wallet.json' in your terminal to create the json file");
 
-
+// You've generated a new Solana wallet: 4crDb1hj8PfM4wPb7FuffrXfHNTYdFzAMDVBPrNbJzpB
+// To save your wallet, copy and paste the following into dev-wallet.json file:
+// [...,98,69,...145,28,...]
