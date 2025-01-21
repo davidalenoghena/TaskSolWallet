@@ -7,7 +7,8 @@
     "build": "tsc",
     "generate_wallet": "ts-node src/generate_wallet.ts",
     "airdrop": "ts-node src/airdrop.ts",
-    "components": "ts-node src/wallet_components.ts"
+    "components": "ts-node src/wallet_components.ts",
+    "check_balance": "ts-node src/check_balance.ts"
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.30.1",
