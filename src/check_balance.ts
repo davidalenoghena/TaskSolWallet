@@ -40,3 +40,5 @@ async function main() {
 }
 
 main();
+
+//Wallet balance: 2 SOL
